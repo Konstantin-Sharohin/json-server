@@ -1,0 +1,24 @@
+{
+   "blogposts": [
+      {
+         "title": "First note",
+         "content": "content for the note",
+         "id": 1
+      },
+      {
+         "title": "Newly created API note",
+         "content": "Some content",
+         "id": 2
+      },
+      {
+         "title": "Third note creation",
+         "content": "Asdofjl",
+         "id": 3
+      },
+      {
+         "title": "New note",
+         "content": "Some content",
+         "id": 4
+      }
+   ]
+}
